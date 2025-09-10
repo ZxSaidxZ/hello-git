@@ -1,0 +1,1 @@
+SELECT DISTINCT IdCliente FROM CLIENTE; -- Devuelve los IdCliente sin repetidos
